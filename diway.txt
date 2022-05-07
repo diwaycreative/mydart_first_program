@@ -4,3 +4,4 @@
 - mencoba di real device
 - membuat aplikasi laundry
 - membuat ui ux
+- membuat UI aplikasi laundry
