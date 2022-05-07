@@ -1,4 +1,6 @@
 - membuat program hallo world
 - membuat vm dart
 - membuat database dart
-- mencoba flutter
+- mencoba di real device
+- membuat aplikasi laundry
+- membuat ui ux
